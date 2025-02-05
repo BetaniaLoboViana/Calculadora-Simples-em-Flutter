@@ -1,7 +1,7 @@
-# calculadora
+# Calculadora
 
 Calculadora simples em Flutter.
 
-## Getting Started
+## Começando
 
 Esse projeto implementa uma calculadora simples para a compreensão de Flutter.
